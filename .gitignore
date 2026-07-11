@@ -1,0 +1,22 @@
+# ---- Secrets: NEVER commit ----
+.env
+.env.*
+!.env.example
+
+# ---- Your documents & generated data: NEVER publish ----
+corpus/*
+!corpus/.gitkeep
+storage/
+qdrant_storage/
+
+# ---- Python ----
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ---- macOS / editors ----
+.DS_Store
+.idea/
+.vscode/

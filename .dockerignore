@@ -1,0 +1,9 @@
+.venv
+qdrant_storage
+corpus
+storage
+__pycache__
+*.pyc
+.env
+.git
+.gitignore

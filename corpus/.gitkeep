@@ -1,0 +1,3 @@
+# Drop your documents (PDF, PNG, JPG, TXT, MD) into this folder.
+# This file only exists to keep the (otherwise empty) folder in git.
+# Your actual documents are gitignored and never published.
